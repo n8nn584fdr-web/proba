@@ -4,3 +4,4 @@
 # most siker? 
 # hibajegy leírás 
 ujra
+még mindig nem jo 
